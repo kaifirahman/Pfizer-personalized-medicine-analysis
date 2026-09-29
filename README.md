@@ -109,8 +109,25 @@ The Looker Studio dashboard summarizes the analysis through:
 ## Repository Structure
 
 ```text
-pfizer-personalized-medicine-analysis/
+Pfizer-personalized-medicine-analysis/
 │
-├── README.md
+├── Pfizer_Personalized_Medicine_Analysis.xlsx
+│   └── Excel data cleaning, analysis and visualizations
 │
-└── Pfizer_Personalized_Medicine_Analysis.xlsx
+├── Pfizer_Clinical_Trial_Analytics_Presentation.pptx
+│   └── Project presentation
+│
+├── Pfizer_Personalized_Medicine_Dashboard1.png
+│   └── Looker Studio dashboard preview
+│
+├── Pfizer_Personalized_Medicine_Dashboard2.png
+│   └── Additional dashboard view
+│
+├── Pfizer_Personalized_Medicine_Dashboard3.png
+│   └── Additional dashboard view
+│
+├── Pfizer_Personalized_Medicine_Dashboard4.png
+│   └── Additional dashboard view
+│
+└── README.md
+    └── Project overview, methodology and key findings
