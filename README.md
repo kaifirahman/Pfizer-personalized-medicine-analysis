@@ -14,6 +14,12 @@ The analysis was performed using **Microsoft Excel** for data cleaning, explorat
 
 ![Pfizer Personalized Medicine Dashboard](Pfizer_Personalized_Medicine_Dashboard1.png) 
 
+### 📑 Project Presentation
+
+The complete project presentation covering the analysis, key findings, visualizations, and dashboard is available here:
+
+[View Project Presentation](./Pfizer_Clinical_Trial_Analytics_Presentation.pptx)
+
 ## Business Objective
 
 The objective is to understand how patient characteristics and treatment-related factors are associated with clinical outcomes and to present these findings in a format that can support data-driven decision-making.
