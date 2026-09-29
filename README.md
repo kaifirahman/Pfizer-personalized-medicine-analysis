@@ -6,6 +6,10 @@ This project analyzes clinical trial data to identify patterns in treatment outc
 
 The analysis was performed using **Microsoft Excel** for data cleaning, exploratory analysis, PivotTables, and visualizations, followed by an interactive **Looker Studio dashboard** for communicating key findings.
 
+## 🔗 Interactive Dashboard
+
+[View Interactive Looker Studio Dashboard](https://datastudio.google.com/s/giN0IzKvWAU)
+
 ## Business Objective
 
 The objective is to understand how patient characteristics and treatment-related factors are associated with clinical outcomes and to present these findings in a format that can support data-driven decision-making.
@@ -97,11 +101,6 @@ The Looker Studio dashboard summarizes the analysis through:
 - Treatment Success Rate by Age Group
 - Average Progression-Free Survival by Drug
 - Treatment Success Rate by Trial Phase
-
-## 🔗 Interactive Dashboard
-
-[View Interactive Looker Studio Dashboard](https://datastudio.google.com/s/giN0IzKvWAU) 
-
 
 ## Repository Structure
 
