@@ -98,6 +98,11 @@ The Looker Studio dashboard summarizes the analysis through:
 - Average Progression-Free Survival by Drug
 - Treatment Success Rate by Trial Phase
 
+## 🔗 Interactive Dashboard
+
+[View Interactive Looker Studio Dashboard](https://datastudio.google.com/s/giN0IzKvWAU) 
+
+
 ## Repository Structure
 
 ```text
