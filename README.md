@@ -18,7 +18,8 @@ The analysis was performed using **Microsoft Excel** for data cleaning, explorat
 
 The complete project presentation covering the analysis, key findings, visualizations, and dashboard is available here:
 
-[View Project Presentation](./Pfizer_Clinical_Trial_Analytics_Presentation.pptx)
+[View Project Presentation](https://github.com/kaifirahman/Pfizer-personalized-medicine-analysis/raw/refs/heads/main/Pfizer_Clinical_Trial_Analytics_Presentation.pptx)
+
 
 ## Business Objective
 
