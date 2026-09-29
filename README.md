@@ -10,7 +10,10 @@ The analysis was performed using **Microsoft Excel** for data cleaning, explorat
 
 [View Interactive Looker Studio Dashboard](https://datastudio.google.com/s/giN0IzKvWAU)
 
-![Pfizer Personalized Medicine Dashboard](Pfizer_Personalized_Medicine_Dashboard1.png)
+### Dashboard Preview
+
+![Pfizer Personalized Medicine Dashboard](Pfizer_Personalized_Medicine_Dashboard1.png) 
+
 ## Business Objective
 
 The objective is to understand how patient characteristics and treatment-related factors are associated with clinical outcomes and to present these findings in a format that can support data-driven decision-making.
